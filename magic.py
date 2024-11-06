@@ -182,3 +182,4 @@ movie_name = st.selectbox("Enter The Title Of The Movie", list(movies_list['name
 if st.button('Analyse'):
     analyse_movie_sentiments(movie_name)
 
+
