@@ -21,3 +21,4 @@ This Python application performs sentiment analysis on IMDb movie reviews. Users
 ## Note
 
 Ensure the required pickle files containing movie titles are available in the repository.
+## one pkl file not included that is moviestitle.pkl which is the main one
